@@ -21,6 +21,7 @@ Este proyecto fue desarrollado utilizando la herramienta de [Media Pipe](https:/
 #### Existe una manera de dibujar los puntos detecados de manera ya implementada, tal es el caso de:
 
 > mp_drawing_styles.get_default_hand_landmarks_style()
+
 > mp_drawing_stylesget_default_hand_connections_style()
 
 ### Ambos ya implementan lineas de dibujo predefinidas
